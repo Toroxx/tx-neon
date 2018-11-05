@@ -1,0 +1,38 @@
+{
+    "name": "Tx Neon",
+    "version": "0.1.0",
+    "displayName": "Tx Neon",
+    "description": "Neon color themes by Lawrence Lau",
+    "publisher": "Lawrence Lau",
+    "license": "MIT",
+    "keywords": ["torolab", "tx", "neon", "tx-neon"],
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Tx Neon (Purple)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-purple.json"
+        }, {
+            "label": "Tx Neon (Green)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-green.json"
+        }, {
+            "label": "Tx Neon (Red)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-red.json"
+        }, {
+            "label": "Tx Neon (Yellow)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-yellow.json"
+        }, {
+            "label": "Tx Neon (Blue)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-blue.json"
+        }]
+    }
+}
