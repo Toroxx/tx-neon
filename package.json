@@ -1,6 +1,6 @@
 {
     "name": "tx-neon",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "displayName": "Tx Neon",
     "description": "Neon color themes by Lawrence Lau",
     "publisher": "toroxx",
@@ -15,6 +15,10 @@
     ],
     "contributes": {
         "themes": [{
+            "label": "Tx Neon (Cyan)",
+            "uiTheme": "vs-dark",
+            "path": "./themes/tx-neno-cyan.json"
+        },{
             "label": "Tx Neon (Purple)",
             "uiTheme": "vs-dark",
             "path": "./themes/tx-neno-purple.json"
