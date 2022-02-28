@@ -1,5 +1,5 @@
 {
-    "name": "Tx Neon - Purple",
+    "name": "Tx Neon - Red",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
@@ -15,7 +15,7 @@
         "editorGroupHeader.tabsBorder": "#f00",
 
         "sideBar.border": "#f00",
-        "sideBar.background": "#000",
+        "sideBar.background": "#100",
         "sideBarSectionHeader.background": "#300",
         "sideBarSectionHeader.foreground": "#f00",
 
@@ -23,9 +23,10 @@
         "badge.background": "#300",
         "tab.inactiveBackground": "#000",
 
-        "activityBar.background": "#300",
+        "activityBar.background": "#200",
         "activityBar.border": "#f00",
         "activityBar.foreground": "#f00",
+        "activityBar.inactiveForeground": "#811",
 
 
         "tab.activeBorder": "#f00",
@@ -37,10 +38,11 @@
         "terminal.background": "#000",
         "terminal.foreground": "#0f0",
         "terminal.border": "#f00",
-        "statusBar.background": "#300",
-        "statusBar.foreground": "#f00",
+        "statusBar.background": "#303",
+        "statusBar.foreground": "#f0f",
 
         "panel.border": "#f00",
+        "panel.background": "#100",
         "panelTitle.activeBorder": "#ff0000",
         "panelTitle.inactiveForeground": "#f00",
 
@@ -52,12 +54,12 @@
         "menubar.selectionBackground": "#000",
         "menubar.selectionForeground": "#f00",
         "menubar.selectionBorder": "#f00",
-        "statusBar.border": "#f00",
+        "statusBar.border": "#f0f",
         "statusBar.debuggingBackground": "#400",
         "statusBar.debuggingForeground": "#ff0",
         "statusBar.debuggingBorder": "#f00",
         "contrastBorder": "#f00",
-        "contrastActiveBorder": "#f00",
+        "contrastActiveBorder": "#f0f",
         "dropdown.border": "#f00",
     },
     "tokenColors": [{

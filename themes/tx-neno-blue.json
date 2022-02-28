@@ -1,5 +1,5 @@
 {
-    "name": "Tx Neon - Purple",
+    "name": "Tx Neon - Blue",
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
@@ -10,55 +10,61 @@
         "titleBar.inactiveBackground": "#000",
         "titleBar.inactiveForeground": "#f00",
         "titleBar.border": "#f00",
-
-        "editor.background": "#000",
+    
+        "editor.background": "#002",
         "editorGroupHeader.tabsBorder": "#00f",
-
+    
         "sideBar.border": "#00f",
-        "sideBar.background": "#000",
-        "sideBarSectionHeader.background": "#003",
-        "sideBarSectionHeader.foreground": "#00f",
-
-        "editorGroupHeader.tabsBackground": "#003",
-        "badge.background": "#003",
-        "tab.inactiveBackground": "#000",
-
-        "activityBar.background": "#003",
+        "sideBar.background": "#002",
+        "sideBarSectionHeader.background": "#006",
+        "sideBarSectionHeader.foreground": "#99f",
+        "sideBarTitle.foreground": "#99f",
+    
+        "badge.background": "#00f",
+    
+        "activityBar.background": "#005",
+        "activityBar.foreground": "#99f",
+        "activityBar.inactiveForeground": "#00F",
         "activityBar.border": "#00f",
-        "activityBar.foreground": "#00f",
-
-
+    
+        "editorGroupHeader.tabsBackground": "#002",
+        "tab.inactiveBackground": "#000",
         "tab.activeBorder": "#00f",
-        "tab.activeBackground": "#000",
-        "tab.hoverBackground": "#111",
+        "tab.activeBackground": "#009",
+        "tab.hoverBackground": "#004",
+        "tab.hoverForeground": "#99f",
         "tab.border": "#00f",
         "tab.inactiveForeground": "#00f",
-
-        "terminal.background": "#000",
+    
+        "terminal.background": "#002",
         "terminal.foreground": "#0f0",
         "terminal.border": "#00f",
-        "statusBar.background": "#003",
-        "statusBar.foreground": "#00f",
-
+    
         "panel.border": "#00f",
-        "panelTitle.activeBorder": "#ff0000",
         "panelTitle.inactiveForeground": "#00f",
-
-        "menu.border": "#00f",
-        "menu.background": "#000",
-        "menu.foreground": "#00f",
-        "menu.selectionBackground": "#00f",
+        "panelTitle.activeForeground": "#99f",
+    
+        "menu.border": "#99f",
+        "menu.background": "#002",
+        "menu.foreground": "#99f",
+        "menu.selectionBackground": "#99f",
         "menu.selectionForeground": "#000",
         "menubar.selectionBackground": "#000",
-        "menubar.selectionForeground": "#00f",
+        "menubar.selectionForeground": "#99f",
         "menubar.selectionBorder": "#00f",
-        "statusBar.border": "#00f",
+    
+        "statusBar.background": "#005",
+        "statusBar.foreground": "#99f",
+        "statusBar.border": "#66f",
         "statusBar.debuggingBackground": "#400",
         "statusBar.debuggingForeground": "#ff0",
         "statusBar.debuggingBorder": "#f00",
-        "contrastBorder": "#00f",
-        "contrastActiveBorder": "#f00",
+    
+        "contrastBorder": "#000",
+        "contrastActiveBorder": "#000",
+    
         "dropdown.border": "#00f",
+        "minimap.background": "#000"
     },
     "tokenColors": [{
             "scope": [
