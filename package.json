@@ -1,12 +1,12 @@
 {
     "name": "tx-neon",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "displayName": "Tx Neon",
     "description": "Neon color themes by Lawrence Lau",
     "publisher": "toroxx",
     "license": "MIT",
     "repository": "https://github.com/toroxx/tx-neon",
-    "keywords": ["torolab", "tx", "neon", "tx-neon"],
+    "keywords": ["torolab","psi", "tx", "neon", "tx-neon"],
     "engines": {
         "vscode": "^1.13.0"
     },
